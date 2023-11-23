@@ -45,7 +45,7 @@ addBtn.addEventListener("click", () => {
 
     checkButton.addEventListener("click", () => {
         checkButton.parentElement.style.textDecoration = "line-through";
-        console.log(checkButton.parentElement);
+        // console.log(checkButton.parentElement);
     })
 
     deleteButton.addEventListener("click", () => {
